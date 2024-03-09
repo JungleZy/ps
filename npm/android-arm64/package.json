@@ -1,0 +1,18 @@
+{
+  "name": "@jungle/ps-android-arm64",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "ps.android-arm64.node",
+  "files": [
+    "ps.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

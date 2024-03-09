@@ -1,0 +1,18 @@
+{
+  "name": "@jungle/ps-linux-arm-gnueabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "ps.linux-arm-gnueabihf.node",
+  "files": [
+    "ps.linux-arm-gnueabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
